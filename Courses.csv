@@ -1,0 +1,66 @@
+skill,course_name
+Python,Python for Beginners| Advanced Python Programming|Python for Data Science
+SQL,SQL for Data Analysis| Advanced SQL Queries| SQL Joins and Subqueries
+Pandas,Pandas for Data Analysis| Data Cleaning with Pandas
+NumPy,NumPy Essentials| Numerical Computing with NumPy
+Scikit-learn,Scikit-learn for Machine Learning| Model Building with Scikit-learn
+Machine Learning,Machine Learning with Python| ML Algorithms Masterclass| Feature Engineering for ML
+Deep Learning,Deep Learning Fundamentals| Neural Networks with TensorFlow| Deep Learning with PyTorch
+NLP,NLP Fundamentals| Text Processing with NLP| Sentiment Analysis using NLP
+Power BI,Power BI Dashboard Course| Power BI Advanced Visualizations
+TensorFlow,TensorFlow Bootcamp| Deep Learning with TensorFlow
+PyTorch,PyTorch for Deep Learning| Deep Learning with PyTorch
+RAG,RAG Fundamentals| Building RAG Applications
+Agents,AI Agents Fundamentals| Building AI Agents with CrewAI
+MLOps/Deployment,MLOps for Beginners| Model Deployment with FastAPI
+HTML,HTML for Beginners| HTML5 Complete Guide
+CSS,CSS Basics to Advanced| Responsive Web Design with CSS
+JavaScript,JavaScript for Beginners| Advanced JavaScript Concepts
+React,React JS for Beginners| Advanced React Development
+Node.js,Node.js for Backend Development| Node.js API Development
+Express,Express JS for Beginners| Building REST APIs with Express
+MongoDB,MongoDB Basics| MongoDB for Developers
+Python Full Stack,Python Full Stack Development| Full Stack with Django
+Django,Django for Web Development| Advanced Django Projects
+Flask,Flask Web Development| Flask REST API Development
+FastAPI,FastAPI for Beginners| Building APIs with FastAPI
+Java,Java Programming for Beginners| Advanced Java Programming
+Spring Boot,Spring Boot for Beginners| Building APIs with Spring Boot
+Hibernate,Hibernate Framework Basics| ORM with Hibernate
+JSP/Servlets,JSP and Servlets Basics| Java Web Development
+Java Full Stack,Java Full Stack Development| Spring Boot + React Full Stack
+Cyber Security,Cyber Security Fundamentals| Ethical Hacking Basics
+Ethical Hacking,Ethical Hacking Bootcamp| Penetration Testing Basics
+Network Security,Network Security Basics| Advanced Network Security
+Cryptography,Cryptography Fundamentals| Encryption Techniques
+Web Security,Web Security Basics| OWASP Top 10
+Cloud Computing,Cloud Computing Fundamentals| Introduction to Cloud Platforms
+AWS,AWS Cloud Practitioner| AWS for Developers
+Azure,Azure Fundamentals| Azure for Cloud Engineers
+GCP,Google Cloud Basics| GCP for Beginners
+DevOps,DevOps Fundamentals| CI/CD Pipeline Basics
+Docker,Docker for Beginners| Containerization with Docker
+Kubernetes,Kubernetes Basics| Container Orchestration
+SAP,SAP Fundamentals| Introduction to SAP ERP
+SAP FICO,SAP FICO Training| Finance Accounting in SAP
+SAP ABAP,SAP ABAP Programming| ABAP for Beginners
+SAP HANA,SAP HANA Basics| In-Memory Computing with HANA
+SAP MM,SAP Material Management| SAP MM Training Course
+SAP SD,SAP Sales and Distribution| SAP SD Fundamentals
+Excel,Excel Basics to Advanced| Excel for Data Analysis
+Statistics,Statistics for Data Science| Probability Basics
+Data Visualization,Data Visualization with Python| Matplotlib for Beginners
+Git,Git and GitHub Basics| Version Control with Git
+REST APIs,REST API Fundamentals| Building REST APIs
+Communication Skills,Effective Communication Skills| Business Communication Basics
+Interview Preparation,Interview Skills Masterclass| HR Interview Preparation
+Resume Building,Resume Writing for Freshers| ATS Resume Optimization
+Aptitude,Quantitative Aptitude Basics| Logical Reasoning Practice
+Problem Solving,Problem Solving Techniques| Critical Thinking Skills
+Time Management,Time Management Mastery| Productivity Techniques
+Leadership,Leadership Skills for Beginners| Team Leadership Basics
+Teamwork,Team Collaboration Skills| Working in Teams Effectively
+Presentation Skills,Presentation Skills Masterclass| Public Speaking Basics
+Career Guidance,Career Planning for Students| Goal Setting and Career Growth
+Confidence Building,Build Self Confidence| Overcome Fear and Anxiety
+English Speaking,Spoken English Basics| Fluent English Speaking Practice
