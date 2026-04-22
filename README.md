@@ -71,7 +71,7 @@ requirements.txt → Dependencies
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone the repository
-git clone https://github.com/YOUR_USERNAME/resume_analyzer.git  
+git clone https://github.com/Venkatesh-Daggu/resume_analyzer.git  
 cd resume_analyzer  
 
 ### 2️⃣ Create virtual environment
